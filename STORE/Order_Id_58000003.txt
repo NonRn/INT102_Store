@@ -1,0 +1,21 @@
+	          Order No: 58000003
+	        Customer: Name = Sec2   Group2
+Id = 1000000
+Login = 
+BirthDay1997-02-02
+Age = 22
+Point = 2005
+	---------------------------------------------------------------
+Products
+ProId	ProName		Protype	Proprice	Amount	Total
+900000001	Computer 	Electronics	50000.0	1	50000.0
+Products
+ProId	ProName		Protype	Proprice	Amount	Total
+9999	Delivery Charge 	Other	50.0	1	50.0
+Products
+ProId	ProName		Protype	Proprice	Amount	Total
+0	Discount from your point 	Other	-2005.0	1	-2005.0
+	---------------------------------------------------------------
+	Total: 48045.0
+	Today you received  1919.8 Points 
+	---------------------------------------------------------------
